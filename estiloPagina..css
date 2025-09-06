@@ -1,0 +1,32 @@
+body{
+    background-color:aliceblue;
+    margin: auto;
+}
+
+.encabezado{
+    background-color:darkblue;
+    color:aliceblue;
+    padding: 5px;
+    box-shadow: 0 4px 4px darkgray;
+}
+
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
+
+#opcion{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding-left: 415px;
+}
+
+.cuerpo{
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight:bolder;
+    margin: 25px;
+    padding: 50px;
+    padding-top: 20px;
+}
